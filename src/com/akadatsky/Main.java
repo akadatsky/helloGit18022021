@@ -6,6 +6,13 @@ public class Main {
         System.out.println("test");
     }
 
+    private static int sum(int a, int b) {
+
+
+
+        return a+b;
+    }
+
     private static void test() {
         System.out.println("asdf");
     }
