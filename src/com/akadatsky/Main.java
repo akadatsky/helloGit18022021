@@ -7,7 +7,7 @@ public class Main {
     }
 
     private static void test() {
-
+        System.out.println("asdf");
     }
 
 }
